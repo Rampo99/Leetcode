@@ -1,4 +1,4 @@
-package problems.two_sum;
+package problems.twoSum;
 
 import java.util.HashMap;
 import java.util.stream.IntStream;
